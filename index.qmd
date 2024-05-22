@@ -1,5 +1,5 @@
 ---
-title: "Movies and Data Science"
+title: "Football and Data Science"
 listing:
   contents: posts
   sort: "date desc"
