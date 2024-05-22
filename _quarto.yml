@@ -17,7 +17,7 @@ website:
   navbar:
     right:
       - text: Home
-        href: "https://www.dataidea.org/"
+        href: "https://football.dataidea.org/"
       - text: About
         menu:
           - text: About Us
@@ -36,8 +36,6 @@ website:
             url: "https://chat.whatsapp.com/GuCZRyJICgO3Y7MPvDQKhi"
       - text: Contact
         href: "https://courses.dataidea.org/contact"
-      - text: Football
-        href: "https://football.dataidea.org"
       - icon: twitter
         href: https://twitter.com/datas_idea
 format:
