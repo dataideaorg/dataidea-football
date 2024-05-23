@@ -1,5 +1,5 @@
 ---
-title: Bayern Munich’s Pursuit Of Vincent Kompany Is About Style Over Results
+title: Why are Bayern after Vincent Kompany?
 author: "Steve Price"
 date: "2024-05-22"
 categories: []
