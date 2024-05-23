@@ -5,6 +5,8 @@ date: "2024-05-23"
 categories: [Transfers, Man Utd]
 ---
 
+![Image by DATAIDEA](thumbnail.png)
+
 ### Key Points:
 
 - Manchester United decide to replace Ten Hag
