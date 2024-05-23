@@ -2,7 +2,7 @@
 title: Why are Bayern after Vincent Kompany?
 author: "Steve Price"
 date: "2024-05-22"
-categories: []
+categories: [Transfers]
 ---
 
 ![Image by DATAIDEA](thumbnail.png)

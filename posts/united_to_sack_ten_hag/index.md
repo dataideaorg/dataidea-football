@@ -2,7 +2,7 @@
 title: Man Utd's Decision Made?! Erik ten Hag Set to Be SACKED by Sir Jim Ratcliffe & INEOS Irrespective of FA Cup Final Result
 author: "Gill Clark"
 date: "2024-05-23"
-categories: []
+categories: [Transfers, Man Utd]
 ---
 
 ### Key Points:

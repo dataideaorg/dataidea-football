@@ -2,7 +2,7 @@
 title: Best European Signings of the 2023-24 Season
 author: "Juma Shafara"
 date: "2024-05-22"
-categories: []
+categories: [Transfers]
 ---
 
 ![Image by DATAIDEA](thumbnail.png)
