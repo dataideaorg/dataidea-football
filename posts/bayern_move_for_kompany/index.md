@@ -5,7 +5,7 @@ date: "2024-05-22"
 categories: []
 ---
 
-![IMDb](thumbnail.png)
+![Image by DATAIDEA](thumbnail.png)
 
 After a difficult Bundesliga season, Bayern Munich looks likely to hire Burnley head coach Vincent Kompany as their new head coach.
 

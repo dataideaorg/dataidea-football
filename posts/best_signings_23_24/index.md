@@ -5,7 +5,7 @@ date: "2024-05-22"
 categories: []
 ---
 
-![IMDb](thumbnail.png)
+![Image by DATAIDEA](thumbnail.png)
 
 # Best European Signings of the 2023-24 Season
 
