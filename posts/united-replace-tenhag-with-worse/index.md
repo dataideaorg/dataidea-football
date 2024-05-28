@@ -1,7 +1,7 @@
 ---
 title: Can We Be Frank? Manchester United Might Be Replacing Ten Hag with a Worse Fit and Bigger Gamble
 author: "Dave Tickner"
-date: "2024-05-23"
+date: "2024-05-28"
 categories: [Transfers, Man Utd]
 ---
 
