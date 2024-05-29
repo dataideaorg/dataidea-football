@@ -7,8 +7,6 @@ categories: [Transfers]
 
 ![Image by DATAIDEA](thumbnail.png)
 
-_Last modified on Wed 29 May 2024 17.54 BST_
-
 Bayern Munich have appointed Vincent Kompany as their new head coach after agreeing a compensation package of about £10m with Burnley.
 
 Kompany has signed a three-year contract with Bayern, who made a surprise move for him having failed to persuade Thomas Tuchel to remain at the end of the season. Xabi Alonso, their former coach Julian Nagelsmann, and Austria’s coach Ralf Rangnick had turned down the post.
