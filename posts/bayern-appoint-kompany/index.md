@@ -62,13 +62,13 @@ Burnley’s search for a replacement to lead them back into the Premier League i
 </script>
 
 <div>
+<iframe src="https://embeds.beehiiv.com/5fc7c425-9c7e-4e08-a514-ad6c22beee74?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width: 100%; font-family:futura;" ></iframe>
+</div>
+
+<div>
 <h2>You may also like:</h2>
 <a href="/posts/bayern_move_for_kompany/">
 <h4>Why Bayern are after Kompany</h4>
 ![Why Bayern are after Kompany](../bayern_move_for_kompany/thumbnail.png)
 </a>
-</div>
-
-<div>
-<iframe src="https://embeds.beehiiv.com/5fc7c425-9c7e-4e08-a514-ad6c22beee74?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width: 100%; font-family:futura;" ></iframe>
 </div>
