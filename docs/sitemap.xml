@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://football.dataidea.org/dataidea-football/index.html</loc>
+    <loc>https://football.dataidea.org/index.html</loc>
     <lastmod>2024-05-22T09:08:34.938Z</lastmod>
   </url>
   <url>
-    <loc>https://football.dataidea.org/dataidea-football/posts/united_to_sack_ten_hag/index.html</loc>
-    <lastmod>2024-05-23T13:55:55.316Z</lastmod>
-  </url>
-  <url>
-    <loc>https://football.dataidea.org/dataidea-football/posts/bayern_move_for_kompany/index.html</loc>
-    <lastmod>2024-05-23T13:51:52.593Z</lastmod>
-  </url>
-  <url>
-    <loc>https://football.dataidea.org/dataidea-football/posts/united-replace-tenhag-with-worse/index.html</loc>
-    <lastmod>2024-05-28T07:03:54.100Z</lastmod>
-  </url>
-  <url>
-    <loc>https://football.dataidea.org/dataidea-football/posts/best_signings_23_24/index.html</loc>
-    <lastmod>2024-05-23T13:52:04.234Z</lastmod>
-  </url>
-  <url>
-    <loc>https://football.dataidea.org/dataidea-football/posts/bayern-appoint-kompany/index.html</loc>
+    <loc>https://football.dataidea.org/posts/bayern-appoint-kompany/index.html</loc>
     <lastmod>2024-05-29T19:35:50.155Z</lastmod>
   </url>
   <url>
-    <loc>https://football.dataidea.org/dataidea-football/about.html</loc>
-    <lastmod>2024-05-22T06:47:39.522Z</lastmod>
+    <loc>https://football.dataidea.org/posts/best_signings_23_24/index.html</loc>
+    <lastmod>2024-05-23T13:52:04.234Z</lastmod>
   </url>
   <url>
-    <loc>https://football.dataidea.org/index.html</loc>
-    <lastmod>2024-05-22T09:08:34.938Z</lastmod>
+    <loc>https://football.dataidea.org/posts/united-replace-tenhag-with-worse/index.html</loc>
+    <lastmod>2024-05-28T07:03:54.100Z</lastmod>
+  </url>
+  <url>
+    <loc>https://football.dataidea.org/posts/bayern_move_for_kompany/index.html</loc>
+    <lastmod>2024-05-23T13:51:52.593Z</lastmod>
+  </url>
+  <url>
+    <loc>https://football.dataidea.org/posts/united_to_sack_ten_hag/index.html</loc>
+    <lastmod>2024-05-23T13:55:55.316Z</lastmod>
+  </url>
+  <url>
+    <loc>https://football.dataidea.org/about.html</loc>
+    <lastmod>2024-05-22T06:47:39.522Z</lastmod>
   </url>
 </urlset>
