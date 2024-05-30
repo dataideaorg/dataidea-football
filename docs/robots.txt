@@ -1,1 +1,1 @@
-Sitemap: https://football.dataidea.org/dataidea-football/sitemap.xml
+Sitemap: https://football.dataidea.org/sitemap.xml
