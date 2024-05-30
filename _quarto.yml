@@ -10,7 +10,7 @@ website:
   repo-actions: [issue]
   back-to-top-navigation: true
   reader-mode: true
-  site-url: "https://football.dataidea.org/dataidea-football"
+  site-url: "https://football.dataidea.org/"
   description: "Learn Programming For Data Science"
   repo-branch: main
   repo-url: "https://github.com/dataidea/dataidea-football"
