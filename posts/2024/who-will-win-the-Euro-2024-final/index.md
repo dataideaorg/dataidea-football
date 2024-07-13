@@ -39,7 +39,7 @@ As the world tunes in for this epic clash, one thing is certain: we are in for a
 ## What do you think? Put it in the comments below!
 
 <script src="https://utteranc.es/client.js"
-        repo="dataideaorg/dataidea-blog"
+        repo="dataideaorg/dataidea-football"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
