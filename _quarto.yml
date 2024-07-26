@@ -43,11 +43,13 @@ website:
           - text: Movies
             url: "https://movies.dataidea.org"
       - text: Contact
-        href: "https://courses.dataidea.org/contact"
+        href: "https://courses.dataidea.org/#contact"
       - icon: twitter
         href: https://twitter.com/dataideaorg
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
