@@ -22,14 +22,20 @@
   src: url("./fonts/DM_Mono/DMMono-Regular.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "dm sans";
+  src: url("./fonts/DM_Sans/DMSans-VariableFont_opsz,wght.ttf")
+    format("truetype");
+}
+
 .navbar {
-  background-color: #3a6e68;
+  background-color: #008374;
 }
 
 p,
 a,
 li {
-  font-family: "futura";
+  font-family: "dm sans";
 }
 
 h1,
@@ -89,13 +95,13 @@ div.description {
 }
 
 .quarto-title-banner {
-  background: #498982;
+  background: #019b89;
   color: white;
 }
 
 /* Newsletter */
 .newsletter-heading {
-  background-color: #3a6e68;
+  background-color: #008374;
   color: #fff;
   padding: 5px 10px;
 }
@@ -118,7 +124,7 @@ div.description {
 
 /* Alert */
 .alert {
-  background: #3a6e68;
+  background: #008374;
   color: #fff;
   border-radius: 0.25em;
 }
